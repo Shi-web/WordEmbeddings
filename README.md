@@ -2,7 +2,7 @@
 
 ## Overview
 
-This demo demonstrates how to use Word2Vec embeddings to build a spam email classifier. Unlike traditional bag-of-words approaches, Word2Vec captures semantic relationships between words, potentially improving classification accuracy by understanding context and meaning rather than just word frequency.
+This is a demo lab from Break Through Tech's AI Program. This demo demonstrates how to use Word2Vec embeddings to build a spam email classifier. Unlike traditional bag-of-words approaches, Word2Vec captures semantic relationships between words, potentially improving classification accuracy by understanding context and meaning rather than just word frequency.
 
 ## Learning Objectives
 
